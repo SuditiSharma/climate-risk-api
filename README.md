@@ -219,7 +219,7 @@ exactly what more advanced research in this space investigates.
 
 ## 🚀 Live Demo
 
-> API deployed at: *(coming soon)*
+> API deployed at: > API deployed at: https://climate-risk-api-o436.onrender.com/docs
 
 ---
 
