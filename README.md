@@ -1,4 +1,4 @@
-# 🌍 Climate Property Risk API
+# 🌍 Climate Risk API
 
 A machine learning API that predicts whether a disaster scenario 
 represents High, Medium, or Low property risk — built as part of 
