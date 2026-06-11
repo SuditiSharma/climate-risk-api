@@ -4,7 +4,7 @@ A machine learning API that predicts whether a disaster scenario
 represents High, Medium, or Low property risk — built as part of 
 my exploration into climate risk assessment methods.
 
-Inspired by the challenge of property risk under climate change, 
+Inspired by the challenge of risk under climate change, 
 and my background working at Aviva (a FTSE 100 insurer) where 
 understanding risk from real-world data was part of daily work.
 
@@ -192,6 +192,14 @@ combination used to engineer the risk label. In a real system,
 risk labels would come from independent expert assessment — 
 making the prediction task harder and more meaningful.
 
+## 📓 Exploratory Analysis
+
+A full EDA notebook is available in the `notebooks/` folder covering:
+
+- Disaster type and continent distribution
+- Risk label engineering process and design decisions
+- Feature importance analysis and the circular label limitation
+- Model comparison: Random Forest vs Logistic Regression (98.8% vs 70.1%)
 ---
 
 ## 🔬 Limitations and What Comes Next
