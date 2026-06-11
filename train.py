@@ -3,6 +3,13 @@
 # trains a model and saves it
 # I built this to predict climate property risk levels
 # inspired by my fraud detection project
+# Model Performance Summary (last run)
+# Random Forest: 98.8% accuracy
+# High risk:   precision 0.99, recall 0.98
+# Medium risk: precision 0.99, recall 0.99
+# Low risk:    precision 0.99, recall 1.00
+# Note: high accuracy reflects label construction method
+# See notebooks/climate_risk_eda.ipynb for full analysis
 
 import pandas as pd
 import numpy as np
